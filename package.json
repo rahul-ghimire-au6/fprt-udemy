@@ -1,7 +1,6 @@
 {
-  "name": "apne-facebook",
+  "name": "udemy-fprt-backend",
   "version": "1.0.0",
-  "description": "Complete Facebook clone",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon server.js"
