@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.person_logo {
+  border-radius: 100px;
+}
+
+.col-6.pt-2 {
+  border: 1px solid gray;
+}
+
